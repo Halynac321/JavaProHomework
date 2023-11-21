@@ -1,5 +1,5 @@
 # ignore IDEA files
-*.idea,
+*.idea
 
 # ignore GIT files
 *.git
